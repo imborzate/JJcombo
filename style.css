@@ -99,21 +99,11 @@
     flex-direction: column;
     position: absolute;
     align-items: center;
-   
+       
     top: 40%;
     left: 10%;
 }
-  .login-container {
-        background-color: white;
-        padding: 20px;
-        border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        width: 300px;
-    }
-    .login-form h2 {
-        text-align: center;
-        margin-bottom: 20px;
-    }
+ 
 .headings{
     font-family: sans-serif;
     font-size: 3rem;
