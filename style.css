@@ -251,7 +251,7 @@
     }
     
     .fa-facebook {
-      background: url(/images/fblogo.png);
+      background: url(fblogo.png);
       background-size: cover;
       max-width: 100%;
       border-radius: 50%;
@@ -259,7 +259,7 @@
     
     
     .fa-instagram {
-      background-image: url(/images/iglogo.png);
+      background-image: url(iglogo.png);
       background-size: cover;
       max-width: 100%;
       border-radius: 10px;
