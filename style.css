@@ -55,7 +55,7 @@
 .main{
     display: flex;
     flex-direction: column;
-    position: sticky;
+    position: absolute;
     align-items: center;
    
     top: 40%;
