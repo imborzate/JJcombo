@@ -7,8 +7,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: tgb(0,0,0,0.5);
-    opacity: 0.5;
+    background-color: transparent;
+  
     position: sticky;
     top: 0;
 }
