@@ -33,7 +33,7 @@
     box-shadow: 0 0 10px white;
 }
  .login-container {
-        background-color: #2f4938;
+        background-color: rgb(87,130,65);
         padding: 20px;
         display: flex;
         position: absolute;
@@ -52,6 +52,7 @@
     .input-group label {
         display: block;
         margin-bottom: 5px;
+        color: black;
     }
     .input-group input {
         width: 100%;
