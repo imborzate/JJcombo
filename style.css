@@ -35,6 +35,8 @@
 }
  .login-container {
         background-color: rgb(87,130,65);
+        text-align: center;
+        justify-content: center;
         padding: 20px;
         display: flex;
         position: absolute;
