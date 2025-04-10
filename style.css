@@ -188,10 +188,7 @@
     height: 250px;
     margin: 10px;
   }
-    .video-container{
-        display:flex;
-        justify-content: space-between;
-    }
+    
   #contact{
     display: flex;
     flex-direction: column;
@@ -257,13 +254,13 @@
     flex-direction: column;
     height: 100vh;
     background-color: rgb(147, 190, 190);
-    display: flex;
-      justify-content: space-around;
+    display: flex;l
      padding: 10px
   }
     .video-container{
      margin: 50px;
      padding: 50px
+    justify-content: space-between;
     }
     #map{
       position: absolute;
